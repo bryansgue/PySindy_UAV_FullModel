@@ -84,7 +84,9 @@ u_train = u_train.T
 
 # Fit the model
 
-
+print(v1.shape)
+print(u_train.shape)
+print(t_vector.shape)
 
 
 
